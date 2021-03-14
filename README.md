@@ -9,7 +9,7 @@
 
 ## Description
 
-A note taking application designed to write, save, and delete notes.
+A note-taking application designed to write, save, and delete notes.
 
 ## Installation Guidelines
 
